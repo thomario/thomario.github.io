@@ -8,3 +8,6 @@ Pacman ist das coolste aller Pillenwesen. Allein schon seine gelbe Farbe macht i
 * geht auf jedes Wesen los, das nicht rund wie er selbst ist
 * quatscht einen nicht voll
 
+Wie Toru Iwatani sagt:
+> Seine große Stunde kam,
+> immer wenn er Pillen nahm!
