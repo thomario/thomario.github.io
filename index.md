@@ -11,3 +11,5 @@ Pacman ist das coolste aller Pillenwesen. Allein schon seine gelbe Farbe macht i
 Wie Toru Iwatani sagt:
 > Seine große Stunde kam,
 > immer wenn er Pillen nahm!
+
+<img src="https://pixabay.com/de/vectors/pacman-pac-man-punkte-spiel-gelb-151558/"/>
